@@ -1,0 +1,12 @@
+{
+  "name": "Royal Realms Chess",
+  "short_name": "Royal Realms",
+  "description": "A custom-world chess game. Play offline against a computer or a friend on the same device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090a0d",
+  "theme_color": "#090a0d",
+  "orientation": "any",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
